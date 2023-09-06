@@ -1,0 +1,1 @@
+A program for registration users using a login and password. If there is no such user, program creates a new user. Saving all users in the database. See examples in folder "howAppLooksLike"
